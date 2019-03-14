@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    "allowSyntheticDefaultImports": true,
+    "baseUrl": "./",
+    "paths": {
+      "components/*": [
+        "app/components/*"
+      ],
+      "containers/*": [
+        "app/containers/*"
+      ],
+      "images/*": [
+        "app/images/*"
+      ],
+      "tests/*": [
+        "app/tests/*",
+      ],
+      "translations/*": [
+        "app/translations/*",
+      ],
+      "utils/*": [
+        "app/utils",
+      ]
+    }
+  }
+}

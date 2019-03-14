@@ -1,0 +1,21 @@
+.header {
+  color: #FFFFFF;
+}
+
+.menuButton {
+  margin-left: -12px;
+  margin-right: 20;
+}
+
+.sectionDesktop {
+  display: 'flex';
+}
+
+.grow {
+  flex-grow: 1;
+}
+
+.avarta {
+  width: 50px;
+  height: 50px;
+}
